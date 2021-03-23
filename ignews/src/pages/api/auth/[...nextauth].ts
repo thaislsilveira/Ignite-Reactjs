@@ -1,7 +1,6 @@
 import { query as q } from 'faunadb'
 
 import NextAuth from 'next-auth'
-import { signIn } from 'next-auth/client'
 import Providers from 'next-auth/providers'
 
 import { fauna } from '../../../services/fauna'
@@ -24,7 +23,7 @@ export default NextAuth({
             q.Not(
               q.Exists(
                 q.Match(
-                  q.Index('User_by_email'),
+                  q.Index('user_by_email'),
                   q.Casefold(user.email)
                )
              )
@@ -35,7 +34,7 @@ export default NextAuth({
             ),
             q.Get(
                q.Match(
-                  q.Index('User_by_email'),
+                  q.Index('user_by_email'),
                   q.Casefold(user.email)
                )
             )

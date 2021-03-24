@@ -6,7 +6,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { RichText } from 'prismic-dom'
 
-import { getPrismicClient } from '../../../services'
+import { getPrismicClient } from '../../../services/prismic'
 
 import styles from '../post.module.scss'
 

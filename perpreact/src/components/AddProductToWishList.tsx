@@ -1,4 +1,4 @@
-interface AddProductToWishListProps {
+export interface AddProductToWishListProps {
   onAddToWishList: () => void
   onRequestClose: () => void
 }

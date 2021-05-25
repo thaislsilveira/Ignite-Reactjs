@@ -6,9 +6,9 @@ O Ignite é um programa de aceleração para devs, focado em preparar profission
 
 ## Projeto Construído 👩🏽‍💻
 
-### Ignews
+- <a href="https://github.com/thaislsilveira/Ignite-Reactjs/tree/main/ignews" target="_blank">Ignews</a></li>
+ ![ignews](https://github.com/thaislsilveira/Ignite-Reactjs/blob/main/ignews/public/images/ignews.png)
 
-![ignews](https://github.com/thaislsilveira/Ignite-Reactjs/blob/main/ignews/public/images/ignews.png)
 
 ## Tecnologias utilizadas 🚀
 

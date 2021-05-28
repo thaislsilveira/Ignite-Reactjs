@@ -24,6 +24,6 @@ describe('Header component', () => {
     render(<Header />)
 
     expect(screen.getByText('Home')).toBeInTheDocument()
-    expect(screen.getByText('Post')).toBeInTheDocument()
+    expect(screen.getByText('Posts')).toBeInTheDocument()
   })
 })

@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react'
-import { getSession, useSession } from 'next-auth/client'
+import { useSession } from 'next-auth/client'
 import { useRouter } from 'next/router'
 import { mocked } from 'ts-jest/utils'
 import PostPreview, { getStaticProps } from '../../pages/posts/preview/[slug]'
@@ -52,8 +52,6 @@ describe('Post preview page', () => {
   })
 
   it('loads initial data', async () => {
-    const getSessionMocked = mocked(getSession)
-
     const getPrismicClientMocked = mocked(getPrismicClient)
 
     getPrismicClientMocked.mockReturnValueOnce({

@@ -12,6 +12,8 @@ O Ignite é um programa de aceleração para devs, focado em preparar profission
  ![ignews](https://github.com/thaislsilveira/Ignite-Reactjs/blob/main/dtmoney/src/assets/dtMoney.png)
   - <a href="https://github.com/thaislsilveira/Ignite-Reactjs/tree/main/dashgo" target="_blank">DashGo</a></li>
  ![dashgo](https://github.com/thaislsilveira/Ignite-Reactjs/blob/main/dashgo/dashgo.png)
+  - <a href="https://github.com/thaislsilveira/Ignite-Reactjs/tree/main/nextauth" target="_blank">Nextauth</a></li>
+ ![nextauth](https://github.com/thaislsilveira/Ignite-Reactjs/blob/main/nextauth/src/nextauth.png)
 
 
 ## Tecnologias utilizadas 🚀

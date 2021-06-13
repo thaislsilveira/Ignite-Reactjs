@@ -23,8 +23,9 @@ O Ignite é um programa de aceleração para devs, focado em preparar profission
     <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>  
     <li><a href="https://nextjs.org/" target="_blank">Next.js</a></li>
     <li><a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">Testing Library</a></li>
+    <li><a href="https://jestjs.io/" target="_blank">Jest</a></li>
     <li><a href="https://jamstack.org/" target="_blank">Jamstack</a></li>
     <li><a href="https://chakra-ui.com/" target="_blank">Chakra-UI</a></li>
     <li><a href="https://fauna.com/" target="_blank">FaunaDB</a></li>
-    <li><a href="https://miragejs.com/" target=_blank">MirageJS</a></li>
+    <li><a href="https://miragejs.com/" target="_blank">MirageJS</a></li>
 </ul>

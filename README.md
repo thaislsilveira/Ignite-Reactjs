@@ -1,4 +1,4 @@
-<h1 align='center'>Ignite em Reactjs ainda em construção 🚧 </h1> 
+<h1 align='center'>Ignite em Reactjs </h1> 
 
 ## Descrição :star:
 
